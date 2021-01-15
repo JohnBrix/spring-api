@@ -1,5 +1,5 @@
 # spring-api
-This is from youtube demo How to create Rest API CRUD in Spring Boot (In tagalog)
+<h2> This is from youtube demo How to create Rest API CRUD in Spring Boot (In tagalog) </h2>
 
 
 
@@ -22,7 +22,7 @@ so stay tune!
 Hibernate Tutorial
 link: https://www.youtube.com/watch?v=F56wQXQMIz4&t=4s
 
-* Added in this video *
+ <h1> Added in this video </h1>
 
 - Tips and Advice (54: 48 until end of the video about java things)
 - How to use Spring Data Jpa in Repository (9:00)
