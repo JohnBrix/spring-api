@@ -6,20 +6,21 @@ This is from youtube demo How to create Rest API CRUD in Spring Boot (In tagalog
 
 [![Rest Api](screenshot/1.png)](https://www.youtube.com/watch?v=WrG-kd9SBOk&t=8s "How to Create Rest API CRUD in Spring Boot MVC IN TAGALOG")
 
-In this Video tutorial i created a rest api crud in Spring Boot.
-The Part 2 is will connect our Java FX desktop application and do the CRUD in Rest API.
-The Part 3 will be How to connect Android mobile (kotlin) in Rest API and do the CRUD.
+<h1> In this Video tutorial i created a rest api crud in Spring Boot. </h1>
+
+ - The Part 2 is will connect our Java FX desktop application and do the CRUD in Rest API.
+ - The Part 3 will be How to connect Android mobile (kotlin) in Rest API and do the CRUD.
 
 so stay tune!
 
-* Please read the description Below thanks! * 
+ <h1> Please read the description Below thanks! </h1>
 
 
 
-ps: If you're new in Spring boot rest api and no experience in Hibernate i suggest you to learn my hibernate tutorial.
+ <h1> If you're new in Spring boot rest api and no experience in Hibernate i suggest you to learn my hibernate tutorial.</h1>
 
 Hibernate Tutorial
-link: https://www.youtube.com/watch?v=F56wQ...
+link: https://www.youtube.com/watch?v=F56wQXQMIz4&t=4s
 
 * Added in this video *
 
@@ -48,10 +49,10 @@ update(@Valid RequestBody PersonDto personDto)
 so the message in @NotBlank or @NotNull can be show in Exception in Postman) 
 
 What is Dto?
-Link: https://thorben-janssen.com/dto-proje...
+Link: https://thorben-janssen.com/dto-projections/
 
 What is Spring vs Spring Boot vs Spring MVC?
-https://www.javatpoint.com/spring-vs-...
+https://www.javatpoint.com/spring-vs-spring-boot-vs-spring-mvc
 
 
  
